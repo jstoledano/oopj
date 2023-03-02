@@ -1,7 +1,6 @@
 package org.toledano.duke;
 
-import org.toledano.duke.genes.Part2;
-import org.toledano.duke.genes.Part3;
+import org.toledano.duke.week2.Part3;
 
 public class Main {
     public static void main(String[] args) {

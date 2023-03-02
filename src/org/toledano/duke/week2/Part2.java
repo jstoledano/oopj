@@ -1,4 +1,4 @@
-package org.toledano.duke.genes;
+package org.toledano.duke.week2;
 
 public class Part2 {
     private String startCodon;

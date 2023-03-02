@@ -1,4 +1,4 @@
-package org.toledano.duke.genes;
+package org.toledano.duke.week2;
 
 public class Part3 {
     private boolean twoOccurrences(String stringa, String stringb) {
