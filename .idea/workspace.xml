@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf64113-0654-4301-b252-919a417f4542" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_csv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/courserajava.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oopj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oopj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/genes/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/genes/Part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,13 +42,18 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
+    "last_opened_file_path": "/home/javier/Projects/Java101/oopj/libs/courserajava.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677715696637</updated>
-      <workItem from="1677715697833" duration="6066000" />
+      <workItem from="1677715697833" duration="7571000" />
     </task>
     <servers />
   </component>
