@@ -1,18 +1,10 @@
 package org.toledano.duke;
 
-import org.toledano.duke.week2.Part2;
-import org.toledano.duke.week2.Part3;
-import org.toledano.duke.week2.Part4;
+import org.toledano.duke.week2.FindGene;
 
 public class Main {
     public static void main(String[] args) {
-        Part2 gn = new Part2();
-        gn.testSimpleGene();
-
-//        Part3 p3 = new Part3();
-//        p3.testing();
-
-//        Part4 p4 = new Part4();
-//        p4.findLink("youtube");
+        FindGene fn = new FindGene();
+        fn.testSimpleGene();
     }
 }

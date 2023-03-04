@@ -13,7 +13,7 @@ public class Part4 {
             int endIndex = word.indexOf("\">");
             boolean isYoutube = word.contains("youtube.com");
             if (isYoutube) {
-                System.out.println(word.substring(startIndex+3, endIndex));
+                System.out.println(word.substring(startIndex + 3, endIndex));
             }
         }
     }

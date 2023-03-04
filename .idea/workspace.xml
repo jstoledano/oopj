@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="daf64113-0654-4301-b252-919a417f4542" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/FindGene.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/week2/FindGene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/FindGene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/toledano/duke/week2/Part4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +43,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/javier/Projects/oopj&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Users/javier/Projects/oopj&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -53,7 +54,8 @@
     &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -70,6 +72,10 @@
       <workItem from="1677732185196" duration="66000" />
       <workItem from="1677735043083" duration="31000" />
       <workItem from="1677771391213" duration="2846000" />
+      <workItem from="1677898523709" duration="363000" />
+      <workItem from="1677898915267" duration="528000" />
+      <workItem from="1677899476858" duration="745000" />
+      <workItem from="1677900258153" duration="2377000" />
     </task>
     <servers />
   </component>
